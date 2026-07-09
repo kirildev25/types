@@ -2,7 +2,7 @@ site_name: Learn Typescript
 site_url: https://kirildev25.github.io/types/
 
 theme:
-  favicon: assets/favicon.ico
+  favicon: assets/favicon96.png
   logo: assets/logo.png
   name: material
   language: uk
